@@ -64,6 +64,11 @@ body
     width: 45px;
     margin: 20px;
 }
+.logo
+{
+    width: 100px;
+    margin: 20px;
+}
 .img-fluid
 {
     width: 81%;

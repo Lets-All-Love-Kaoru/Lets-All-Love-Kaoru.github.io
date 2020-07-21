@@ -101,34 +101,34 @@ body
 .webtoon-img
 {
     width: 10px;
-    margin-top: 40px;
+    margin-top: 10px;
 }
 .waifu-img
 {
     width: 10px;
-    margin-top: 35px;
+    margin-top: 10px;
 }
 .husbando-img
 {
     width: 10px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 .webtoon h4
 {
     padding: 5px;
-    margin-top: 25px;
+    margin-top: 18px;
     text-transform: uppercase;
 }
 .waifu h4
 {
     padding: 5px;
-    margin-top: 25px;
+    margin-top: 18px;
     text-transform: uppercase;
 }
 .husbando h4
 {
     padding: 5px;
-    margin-top: 30px;
+    margin-top: 18px;
     text-transform: uppercase;
 }
 .title::before

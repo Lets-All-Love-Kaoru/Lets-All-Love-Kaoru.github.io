@@ -71,8 +71,8 @@ body
 }
 .img-fluid
 {
-    width: 110%;
-    margin-top: 150px;
+    width: 150%;
+    margin-top: 300px;
     padding-left: 55px;
 }
 #banner a
@@ -90,10 +90,6 @@ body
     top: 150px;
     left: 0;
 }
-
-
-
-
 #services
 {
     margin: 0;     

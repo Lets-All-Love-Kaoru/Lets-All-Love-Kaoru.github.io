@@ -43,10 +43,6 @@ body
 {
     outline: none !important;
 }
-
-
-
-
 #banner
 {
     background-image: linear-gradient(to right, #ff0000, #4d1212);
@@ -90,7 +86,6 @@ body
     top: 150px;
     left: 0;
 }
-
 #services
 {
     margin: 0;     
@@ -98,17 +93,17 @@ body
 }
 .webtoon-img
 {
-    width: 80px;
-    margin-top: 15px;
+    width: 800px;
+    margin-top: 10px;
 }
 .waifu-img
 {
-    width: 80px;
-    margin-top: 15px;
+    width: 800px;
+    margin-top: 10px;
 }
 .husbando-img
 {
-    width: 10px;
+    width: 0px;
     margin-top: 0px;
 }
 .webtoon h4
@@ -154,15 +149,10 @@ body
 }
 /*<!------------------#services .btn-primary {box-shadow: none; padding: 8px 25px; border: none; border-radius: 20px; background-image: linear-gradient(to right, #ff0000, #4d1212);}*/
 
-
-
 #tourney
 {
     padding: 80px 0;
 }
-
-
-
 
 
 

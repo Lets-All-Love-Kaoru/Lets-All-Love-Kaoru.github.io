@@ -68,8 +68,8 @@ body
 .img-fluid
 {
     width: 150%;
-    margin-top: 80px;
-    padding-left: 55px;
+    margin-top: 50px;
+    padding-left: 50px;
 }
 #banner a
 {
@@ -83,7 +83,7 @@ body
 .svg
 {
     position: absolute;
-    top: 150px;
+    top: 200px;
     left: 0;
 }
 #services
@@ -94,17 +94,17 @@ body
 .webtoon-img
 {
     width: 100px;
-    margin-top: 10px;
+    margin-top: 0px;
 }
 .waifu-img
 {
     width: 100px;
-    margin-top: 10px;
+    margin-top: 0px;
 }
 .husbando-img
 {
     width: 0px;
-    margin-top: 0px;
+    margin-top: 100px;
 }
 .webtoon h4
 {
